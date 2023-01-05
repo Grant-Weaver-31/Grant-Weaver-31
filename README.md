@@ -10,7 +10,7 @@ I am someone who enjoys telling a compelling story with data. You can see my dif
 * 🌍  I'm based in the Greater Boston Massachusetts Area
 * 🖥️  See my portfolio at [My Personal Website](http://gcweaver31.github.io/website/)
 * ✉️  You can contact me at [gcweaver@bu.edu](mailto:gcweaver@bu.edu)
-* 🧠  I'm learning SQL and Spanish
+* 🧠  I'm currently learning SQL and Spanish
 * 🤝  I'm open to collaborating on analyzing tennis data
 
 ### Skills
