@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Grant Weaver and I'm a data analyst who enjoys telling a compelling story with data.
 
-You can see my different projects in the data analytics field while using Python, R and SQL.
+You can see my different projects in the data analytics field while using Python, R, Excel, Tableau and SQL. However most of the repos that I will post on here will be Python, R and SQL. 
 
 I love to use data anlytics to analyze men's professional singles tennis. 
 
