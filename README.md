@@ -1,13 +1,27 @@
-### Hi there 👋 My name is Grant Weaver and I'm a data analyst who enjoys telling a compelling story with data.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Grant Weaver
+====================================================================================================================================
 
-You can see my different projects in the data analytics field while using Python, R and SQL. Feel free to look at my different repos to see what kind of projects I've completed. 
+I'm a Data Analyst
+------------------
 
-I love to use data anlytics to analyze men's professional singles tennis. :tennis:
+I am someone who enjoys telling a compelling story with data. You can see my different projects in the data analytics field while using Python, R and SQL. Feel free to look at my different repos to see what kind of projects I've completed.
+
+* 🌍  I'm based in Greater Boston Massachusetts
+* 🖥️  See my portfolio at [My Personal Website](http://gcweaver31.github.io/website/)
+* ✉️  You can contact me at [gcweaver@bu.edu](mailto:gcweaver@bu.edu)
+* 🧠  I'm learning SQL and Spanish
+* 🤝  I'm open to collaborating on Analyzing tennis data
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
+
 
 ### Socials
-></a><a href="https://www.linkedin.com/in/grantweaver1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/Stats_of_Tennis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-
-
-### Volunteering
-- I enjoy volunteering in local jails and prisons while using artwork as a medium to help incarcerated people deal with the struggles of being locked up. Hopefully, my work can help decrease the mass incarceration levels in the USA while alleviating the difficulties of being behiend bars. Poetry is my medium of artwork to connect with the people locked up. :writing_hand:
+<p align="left"> <a href="https://www.github.com/gcweaver31" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/grantweaver1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Stats_of_Tennis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
