@@ -5,8 +5,7 @@ You can see my different projects in the data analytics field while using Python
 I love to use data anlytics to analyze men's professional singles tennis. :tennis:
 
 ### Socials
-
-<p align="left"> <a href="https://github.com/gcweaver31" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/grantweaver1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/Stats_of_Tennis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+></a><a href="https://www.linkedin.com/in/grantweaver1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/Stats_of_Tennis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
 
