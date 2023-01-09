@@ -8,7 +8,7 @@ I'm a Data Analyst
 I am someone who enjoys telling a compelling story with data. You can see my different projects in the data analytics field while using Python, R and SQL. Feel free to look at my different repos to see what kind of projects I've completed.
 
 * 🌍  I'm based in the Greater Boston Massachusetts Area
-* 🖥️  See my portfolio at [My Personal Website](http://gcweaver31.github.io/website/)
+* 🖥️  See my portfolio at [My Personal Website](https://Grant-Weaver-31.github.io/website/)
 * ✉️  You can contact me at [gcweaver@bu.edu](mailto:gcweaver@bu.edu)
 * 🧠  I'm currently learning SQL and Spanish
 * 🤝  I'm open to collaborating on analyzing tennis data
